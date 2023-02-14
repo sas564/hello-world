@@ -1,2 +1,1 @@
-# hello-world
-example repository
+yo mama
